@@ -7,10 +7,10 @@
   color: var(--dark-color);
 }
 :root {
-  /* --orange-color: rgb(254, 163, 1);
+  --orange-color: rgb(254, 163, 1);
   --blue-color: rgb(1, 172, 253);
   --dark-color: rgb(24, 24, 24);
-  --light-color: rgb(242, 242, 242); */
+  --light-color: rgb(242, 242, 242);
 }
 button,
 a {
